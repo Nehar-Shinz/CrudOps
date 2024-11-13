@@ -2,6 +2,8 @@
 
 A simple Python CRUD service using SQLite to manage user data. This service supports creating, reading, updating, and deleting user records in a local SQLite database.
 
+Run the program by executing [**this file**](/code/app.py) in any python3 environment.
+
 ## User Model
 
 The `User` model has the following fields:
@@ -49,4 +51,4 @@ conn.close()
 ```
 
 ## License Disclaimer
-This project is a demo and is open-source and available for personal and educational use.
+This project is a demo repo and free for personal, educational or commercial use.
